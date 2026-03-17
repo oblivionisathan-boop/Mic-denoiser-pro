@@ -51,15 +51,15 @@ Intensidad del Filtro IA (%): Si lo pones al 100%, la IA limpiará todo el ruido
 Sensibilidad Puerta de Voz (%): Si tu habitación es muy ruidosa, sube este valor (ej. 40%). El micrófono se muteará por completo automáticamente cuando dejes de hablar, funcionando como una puerta de ruido inteligente.
 
 🎧 Cómo conectarlo a Discord o OBS (Usando Voicemeeter)
-Para que tus amigos escuchen tu voz limpia, necesitas un "Cable Virtual" que conecte la salida de este programa con la entrada de Discord. Recomendamos Voicemeeter Banana (es gratis).
+Para que tus amigos escuchen tu voz limpia, necesitas un "Cable Virtual" que conecte la salida de este programa con la entrada de Discord. Recomendamos Voicemeeter (es gratis).
 
-Abre Voicemeeter Banana.
+Abre Voicemeeter.
 
 En tu programa Denoiser (Python), selecciona como Salida: VoiceMeeter Aux Input.
 
 En Voicemeeter, ve a la columna del centro llamada Voicemeeter AUX y asegúrate de encender el botón > B2. Esto envía la voz al cable de salida.
 
-[AQUÍ VA TU IMAGEN DE VOICEMEETER BANANA CON LA COLUMNA AUX Y EL BOTÓN B2 ENCENDIDO]
+![My Image](voicemeeterinterface.png)
 
 Abre Discord (o OBS) > Ajustes de Voz y Video.
 
