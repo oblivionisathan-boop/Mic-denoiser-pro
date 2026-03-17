@@ -6,8 +6,7 @@ A real-time microphone noise filter using AI (RNNoise) and Python. (Windows)
 
 Ideal para usar con Discord, OBS, Twitch o cualquier juego.
 
-![Captura de pantalla de la interfaz del programa](URL_DE_TU_IMAGEN_AQUI)
-*(Nota para ti: Aquí debes subir una foto de tu ventana de Python funcionando)*
+[![Captura de pantalla de la interfaz del programa](URL_DE_TU_IMAGEN_AQUI)](https://github.com/oblivionisathan-boop/Mic-denoiser-pro/blob/main/interfaz%20rnn.png)
 
 ---
 
