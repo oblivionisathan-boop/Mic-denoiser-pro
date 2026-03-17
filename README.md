@@ -4,8 +4,7 @@
 
 Ideal para usar con Discord, OBS, Twitch o cualquier juego.
 
-![Captura de pantalla de la interfaz del programa](URL_DE_TU_IMAGEN_AQUI)
-*(Nota para ti: Aquí debes subir una foto de tu ventana de Python funcionando)*
+![My Image](interfaz_rnn.png)
 
 ---
 
