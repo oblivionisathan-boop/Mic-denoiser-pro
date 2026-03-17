@@ -1,12 +1,11 @@
-# Mic-denoiser-pro
-A real-time microphone noise filter using AI (RNNoise) and Python. (Windows)
 # 🎙️ Mic Denoiser Pro (IA RNNoise)
 
 ¡Adiós al ruido de fondo! Este es un filtro de micrófono en tiempo real impulsado por Inteligencia Artificial (RNNoise) y escrito en Python. Elimina el ruido de teclados, ventiladores y estática, dejando pasar únicamente tu voz de forma clara y nítida.
 
 Ideal para usar con Discord, OBS, Twitch o cualquier juego.
 
-[![Captura de pantalla de la interfaz del programa](URL_DE_TU_IMAGEN_AQUI)](https://github.com/oblivionisathan-boop/Mic-denoiser-pro/blob/main/interfaz%20rnn.png)
+![Captura de pantalla de la interfaz del programa](URL_DE_TU_IMAGEN_AQUI)
+*(Nota para ti: Aquí debes subir una foto de tu ventana de Python funcionando)*
 
 ---
 
